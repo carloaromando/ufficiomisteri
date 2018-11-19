@@ -7,13 +7,14 @@ public_folder: /img
 
 collections:
   - name: "blog"
-    label: "Blog"
+    label: "Projects"
     folder: "src/pages/projects"
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "order", widget: number}
       - {label: "Image", name: "image", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
 

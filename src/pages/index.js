@@ -9,7 +9,7 @@ export default class IndexPage extends React.Component {
 
     return (
       <Link to={post.fields.slug}>
-        <figure class="image is-square">
+        <figure className="image is-square">
           <img src={"/img/" + post.frontmatter.image.relativePath} alt={post.frontmatter.title} />
         </figure>
       </Link>
@@ -22,6 +22,8 @@ export default class IndexPage extends React.Component {
     let posts = false
     if (hasProjects) {
       posts = data.allMarkdownRemark.edges
+      posts.sort((a, b) => (a.node.frontmatter.order > b.node.frontmatter.order) ? 1 : ((b.node.frontmatter.order > a.node.frontmatter.order) ? -1 : 0))
+      console.log(posts)
     }
 
     return (
@@ -73,6 +75,7 @@ export const pageQuery = graphql`
             image {
               relativePath
             }
+            order
           }
         }
       }
