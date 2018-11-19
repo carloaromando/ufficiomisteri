@@ -4,6 +4,17 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
 export default class IndexPage extends React.Component {
+  renderImage(post) {
+    if (!post.frontmatter.image) return
+
+    return (
+      <Link to={post.fields.slug}>
+        <figure class="image is-square">
+          <img src={"/img/" + post.frontmatter.image.relativePath} alt={post.frontmatter.title} />
+        </figure>
+      </Link>
+    )
+  }
   render() {
     const { data } = this.props
     const hasProjects = data.allMarkdownRemark
@@ -24,11 +35,7 @@ export default class IndexPage extends React.Component {
                     className="column"
                     key={post.id}
                   >
-                    <Link to={post.fields.slug}>
-                      <figure class="image is-square">
-                        <img src={"/img/" + post.frontmatter.image.relativePath} alt={post.frontmatter.title} />
-                      </figure>
-                    </Link>
+                    {this.renderImage(post)}
                   </div>
                 ))}
             </div>
