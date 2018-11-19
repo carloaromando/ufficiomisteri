@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Test
+order: '6'
 image: /img/web3.png
-order: 1
 ---
 Questo e' un test
