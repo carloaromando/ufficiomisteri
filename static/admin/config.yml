@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
   branch: master
+  accept_roles:
+    - admin
+    - editor
 
 media_folder: static/img
 public_folder: /img
@@ -14,7 +17,7 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Order", name: "order", widget: number}
+      - {label: "Order", name: "order", widget: number, default: 0, valueType: "int"}
       - {label: "Image", name: "image", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
 
