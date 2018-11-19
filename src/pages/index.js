@@ -30,11 +30,11 @@ export default class IndexPage extends React.Component {
       <Layout>
         <section className="section">
           <div className="container">
-            <div className="columns">
+            <div className="columns is-multiline">
               {hasProjects && posts
                 .map(({ node: post }) => (
                   <div
-                    className="column"
+                    className="column is-one-third"
                     key={post.id}
                   >
                     {this.renderImage(post)}
