@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
+import Img from "gatsby-image";
 import Layout from '../components/Layout'
 
 export default class IndexPage extends React.Component {
@@ -9,9 +10,7 @@ export default class IndexPage extends React.Component {
 
     return (
       <Link to={post.fields.slug}>
-        <figure className="image is-square">
-          <img src={"/img/" + post.frontmatter.image.relativePath} alt={post.frontmatter.title} />
-        </figure>
+          <Img sizes={post.frontmatter.image.childImageSharp.sizes} alt={post.frontmatter.title} />
       </Link>
     )
   }
@@ -73,7 +72,11 @@ export const pageQuery = graphql`
             title
             templateKey
             image {
-              relativePath
+              childImageSharp {
+                sizes(maxWidth: 500) {
+                  ...GatsbyImageSharpSizes
+                }
+              }
             }
             order
           }

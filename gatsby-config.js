@@ -1,3 +1,10 @@
+var netlifyCmsPaths = {
+  resolve: `gatsby-plugin-netlify-cms-paths`,
+  options: {
+    cmsConfig: `/static/admin/config.yml`,
+  },
+}
+
 module.exports = {
   siteMetadata: {
     title: 'Ufficio Misteri',
@@ -27,12 +34,14 @@ module.exports = {
         name: 'images',
       },
     },
+    netlifyCmsPaths,
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          netlifyCmsPaths,
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
@@ -45,7 +54,8 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048,
+              maxWidth: 1240,
+              backgroundColor: 'transparent', // required to display blurred image first
             },
           },
         ],
