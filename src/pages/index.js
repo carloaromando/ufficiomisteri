@@ -10,7 +10,7 @@ export default class IndexPage extends React.Component {
 
     return (
       <Link to={post.fields.slug}>
-          <Img sizes={post.frontmatter.image.childImageSharp.sizes} alt={post.frontmatter.title} />
+          <Img fluid={post.frontmatter.image.childImageSharp.sizes} alt={post.frontmatter.title} />
       </Link>
     )
   }
@@ -73,7 +73,7 @@ export const pageQuery = graphql`
             templateKey
             image {
               childImageSharp {
-                sizes(maxWidth: 500) {
+                fluid(maxWidth: 500) {
                   ...GatsbyImageSharpFluid_noBase64
                 }
               }
