@@ -2,6 +2,6 @@
 templateKey: blog-post
 title: Test
 order: '1'
-image: /img/web3.png
+image: /img/black.jpg
 ---
 Questo e' un test

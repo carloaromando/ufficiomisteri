@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: A beginners’ guide to brewing with Chemex
-image: /img/jumbotron.jpg
+image: /img/black.jpg
 order: '2'
 ---
 ![chemex](/img/chemex.jpg)

@@ -9,9 +9,7 @@ export default class IndexPage extends React.Component {
     if (!post.frontmatter.image) return
 
     return (
-      <Link to={post.fields.slug}>
-          <Img fluid={post.frontmatter.image.childImageSharp.fluid} alt={post.frontmatter.title} />
-      </Link>
+      <Img fluid={post.frontmatter.image.childImageSharp.fluid} alt={post.frontmatter.title} />
     )
   }
   render() {
@@ -22,7 +20,6 @@ export default class IndexPage extends React.Component {
     if (hasProjects) {
       posts = data.allMarkdownRemark.edges
       posts.sort((a, b) => (a.node.frontmatter.order > b.node.frontmatter.order) ? 1 : ((b.node.frontmatter.order > a.node.frontmatter.order) ? -1 : 0))
-      console.log(posts)
     }
 
     return (
@@ -36,7 +33,10 @@ export default class IndexPage extends React.Component {
                     className="column is-one-third"
                     key={post.id}
                   >
-                    {this.renderImage(post)}
+                    <Link to={post.fields.slug}>
+                      {this.renderImage(post)}
+                      <h6 className="title title-project is-6">{post.frontmatter.title}</h6>
+                    </Link>
                   </div>
                 ))}
             </div>
