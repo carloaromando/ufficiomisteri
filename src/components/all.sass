@@ -45,6 +45,11 @@ $navbar-breakpoint: $mobile
   @media screen and (max-width: $mobile)
     display: none
 
+.navbar-brand .navbar-item
+  @media screen and (max-width: $mobile)
+    justify-content: flex-end
+
+
 .dropdown-container
   display: none
   @media screen and (max-width: $mobile)
@@ -57,6 +62,7 @@ $navbar-breakpoint: $mobile
   z-index: 1
   background-color: $um-white
   padding-left: 15px
+  padding-right: 15px
 
 .icon-hamburger
   width: 35px
