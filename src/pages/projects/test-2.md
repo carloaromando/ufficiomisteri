@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Test 2
 order: '0'
-image: /img/black.jpg
+image: /img/gatto_1.jpg
 ---
 ![c](/img/chemex.jpg)
 
