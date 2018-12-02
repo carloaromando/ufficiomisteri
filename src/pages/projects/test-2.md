@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Test 2
+title: up
 order: '0'
 image: /img/gatto_1.jpg
 ---
