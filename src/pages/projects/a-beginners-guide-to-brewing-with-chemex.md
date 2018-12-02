@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: A beginners’ guide to brewing with Chemex
-image: /img/black.jpg
 order: '2'
+image: /img/0_logo_ufficiomisteri.jpg
 ---
 ![chemex](/img/chemex.jpg)
 
