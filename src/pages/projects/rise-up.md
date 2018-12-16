@@ -2,6 +2,6 @@
 templateKey: blog-post
 title: Rise Up!
 order: '4'
-image: /img/riseup-copia.jpg
+image: /img/web3.png
 ---
 Cacchio
