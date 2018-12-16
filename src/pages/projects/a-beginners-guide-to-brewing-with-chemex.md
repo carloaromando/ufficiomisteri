@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: At the Mountains of Madness
 order: '2'
 image: /img/montagne-della-follia-copia.jpg
 ---
