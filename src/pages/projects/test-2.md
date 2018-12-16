@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: up
 order: '0'
-image: /img/gatto_1.jpg
+image: /img/il-lungo-viaggio-del-707-copia.jpg
 ---
 ![c](/img/chemex.jpg)
 
