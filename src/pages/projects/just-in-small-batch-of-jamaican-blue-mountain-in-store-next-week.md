@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Il Té di Alice
-order: '3'
+order: '03'
 image: /img/alice-copia.jpg
 ---
 
