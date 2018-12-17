@@ -6,4 +6,4 @@ image: /img/riseup-copia.jpg
 ---
 Carlyle
 
-carleto help us pleeez
+ora dovrebbe funzionare, bella!
