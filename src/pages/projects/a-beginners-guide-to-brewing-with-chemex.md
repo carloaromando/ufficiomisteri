@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: At the Mountains of Madness
-order: '2'
+order: '02'
 image: /img/montagne-della-follia-copia.jpg
 ---
 This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
