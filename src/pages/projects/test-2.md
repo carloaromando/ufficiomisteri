@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Il viaggio
+title: Il lungo viaggio del 707
 order: '1'
 image: /img/il-lungo-viaggio-del-707-copia.jpg
 ---
