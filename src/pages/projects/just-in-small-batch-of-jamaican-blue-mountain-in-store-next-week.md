@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: Il Té di Alice
 order: '3'
 image: /img/alice-copia.jpg
 ---
