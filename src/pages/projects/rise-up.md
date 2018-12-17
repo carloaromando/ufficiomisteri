@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Rise Up!
-order: '4'
+order: '04'
 image: /img/riseup-copia.jpg
 ---
 Carlyle
