@@ -2,6 +2,6 @@
 templateKey: blog-post
 title: Double Bobble
 order: '5'
-image: /img/coffee.png
+image: /img/doubble-bubble-copia.jpg
 ---
 Bello bello
