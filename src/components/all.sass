@@ -98,15 +98,16 @@ a
     top: 50%
     left: 0
     right: 0
-    z-index: 0
+    z-index: -1
     padding: 0 0.75rem 0 0.75rem
 
 .column
   position: relative
 
+.gif-image,
 .gatsby-image-wrapper
+  z-index: 1
   @media screen and (min-width: $mobile)
-    z-index: 1
     -webkit-transition: opacity 0.3s ease-in-out
     -moz-transition: opacity 0.3s ease-in-out
     -ms-transition: opacity 0.3s ease-in-out

@@ -6,11 +6,16 @@ import Layout from '../components/Layout'
 
 export default class IndexPage extends React.Component {
   renderImage(post) {
-    if (!post.frontmatter.image) return
+    const img = post.frontmatter.image
 
-    return (
-      <Img fluid={post.frontmatter.image.childImageSharp.fluid} alt={post.frontmatter.title} />
-    )
+    if (!img) return
+
+      console.log(img)
+
+    if (img.childImageSharp && img.childImageSharp.fluid)
+      return <Img fluid={img.childImageSharp.fluid} alt={post.frontmatter.title} />
+
+    return <img className="gif-image" src={img.publicURL} alt={post.frontmatter.title} />
   }
   render() {
     const { data } = this.props
@@ -71,6 +76,7 @@ export const pageQuery = graphql`
             title
             templateKey
             image {
+              publicURL
               childImageSharp {
                 fluid(maxWidth: 600) {
                   ...GatsbyImageSharpFluid_noBase64
