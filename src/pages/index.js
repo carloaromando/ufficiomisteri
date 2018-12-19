@@ -10,8 +10,6 @@ export default class IndexPage extends React.Component {
 
     if (!img) return
 
-      console.log(img)
-
     if (img.childImageSharp && img.childImageSharp.fluid)
       return <Img fluid={img.childImageSharp.fluid} alt={post.frontmatter.title} />
 
