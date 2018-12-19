@@ -35,7 +35,7 @@ export default class IndexPage extends React.Component {
                   >
                     <Link to={post.fields.slug}>
                       {this.renderImage(post)}
-                      <h6 className="title title-project is-6">{post.frontmatter.title}</h6>
+                      <h6 className="title title-project is-6">{post.frontmatter.title}</h6>                      
                     </Link>
                   </div>
                 ))}
