@@ -2,6 +2,6 @@
 templateKey: blog-post
 title: Mistero I
 order: 09
-image: /img/misteroi_def.gif
+image: /img/misteron1-copia.jpg
 ---
 hdjdjdjdh
