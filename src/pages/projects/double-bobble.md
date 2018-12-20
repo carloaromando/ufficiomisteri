@@ -2,6 +2,6 @@
 templateKey: blog-post
 title: Double Bubble
 order: '05'
-image: /img/doublebubble_def.gif
+image: /img/doubble-bubble-copia.jpg
 ---
 Bello bello
