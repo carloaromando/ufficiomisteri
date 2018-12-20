@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Il Té di Alice
 order: '03'
-image: /img/alice-copia.jpg
+image: /img/tedialice_def.gif
 ---
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
