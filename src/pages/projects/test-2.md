@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Il lungo viaggio del 707
 order: '01'
-image: /img/il-lungo-viaggio-del-707-copia.jpg
+image: /img/707_def.gif
 ---
 ![c](/img/chemex.jpg)
 
