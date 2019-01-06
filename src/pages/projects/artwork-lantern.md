@@ -4,4 +4,4 @@ title: Artwork Lantern
 order: 08
 image: /img/lantern-copia.jpg
 ---
-hjjsjs
+![](/img/lantern_ancora.jpg)
