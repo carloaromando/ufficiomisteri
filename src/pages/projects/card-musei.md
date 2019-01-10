@@ -4,4 +4,8 @@ title: Card Musei
 order: '07'
 image: /img/natale_card-copia.jpg
 ---
-jhjkehfkjhdkjhfdk
+**Card Musei Metropolitani Bologna - Campagna Natale 2018**
+
+Illustration created for the Bologna municipal museum card AD Christmas campaign. 
+
+![]()
