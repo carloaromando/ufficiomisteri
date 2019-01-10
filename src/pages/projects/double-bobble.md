@@ -12,4 +12,4 @@ poster created for _Double Bubble_ exposition at Inuit Bookshop, Bologna.
 
 ![](/img/double-bubble_totale.jpg)
 
-Graphite, 42x29,7cm, 2015.
+Graphite, 42 x 29,7 cm, 2015.
