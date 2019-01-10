@@ -10,6 +10,6 @@ image: /img/lantern-copia.jpg
 
 ****
 
-![](/img/mockup_grande.png)
+![](/img/mockup.jpg)
 
 ![null](/img/lantern_ancora.jpg)
