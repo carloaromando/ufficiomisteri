@@ -6,8 +6,10 @@ image: /img/montagne-della-follia-copia.jpg
 ---
 **At the Mountains of Madness**
 
-Fan poster created for the unmade movie by Giullermo Del Toro.
+Fan poster created for the unmade movie by Giullermo Del Toro.          
 
-Graphite, 70x50cm.
+
 
 ![](/img/at_the_mountains_of_madness.jpg)
+
+Graphite, 70x50cm.
