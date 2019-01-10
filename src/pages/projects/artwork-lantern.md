@@ -1,9 +1,15 @@
 ---
 templateKey: blog-post
-title: Artwork Lantern
+title: Lantern - Ancora
 order: 08
 image: /img/lantern-copia.jpg
 ---
-![](/img/mockup.jpg)
+**Lantern - Ancora**
 
-![](/img/lantern_ancora.jpg)
+
+
+****
+
+![](/img/mockup_grande.png)
+
+![null](/img/lantern_ancora.jpg)
