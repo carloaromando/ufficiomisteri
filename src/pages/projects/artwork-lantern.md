@@ -6,10 +6,14 @@ image: /img/lantern-copia.jpg
 ---
 **Lantern - Ancora**
 
+Illustration for the cover of the record _Ancora_ by Lantern.
 
+Design by Coward Records.
 
-****
+To lose la track, Controcanti, Coward Records, Flying Kids, Fatty Liver Records.
 
-![](/img/mockup.jpg)
+- - -
+
+![null](/img/mockup.jpg)
 
 ![null](/img/lantern_ancora.jpg)
