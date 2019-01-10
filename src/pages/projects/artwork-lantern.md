@@ -12,6 +12,8 @@ Design by Coward Records.
 
 To lose la track, Controcanti, Coward Records, Flying Kids, Fatty Liver Records.
 
+2018
+
 - - -
 
 ![null](/img/mockup.jpg)
