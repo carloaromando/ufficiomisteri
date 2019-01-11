@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Card Musei
+title: Card Musei Metropolitani Bologna
 order: '07'
 image: /img/natale_card-copia.jpg
 ---
