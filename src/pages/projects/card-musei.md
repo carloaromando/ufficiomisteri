@@ -8,4 +8,4 @@ image: /img/natale_card-copia.jpg
 
 Illustration created for the Bologna municipal museum card AD Christmas campaign. 
 
-![null]()
+![]()
