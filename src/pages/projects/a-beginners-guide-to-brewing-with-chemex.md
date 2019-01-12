@@ -8,8 +8,7 @@ image: /img/montagne-della-follia-copia.jpg
 
 Fan poster created for the unmade movie by Guillermo Del Toro.          
 
+![null](/img/at_the_mountains_of_madness.jpg)
 
-
-![](/img/at_the_mountains_of_madness.jpg)
-
-Graphite, 70x50cm.
+Graphite\
+2017
