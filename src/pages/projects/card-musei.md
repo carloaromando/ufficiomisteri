@@ -6,6 +6,9 @@ image: /img/natale_card-copia.jpg
 ---
 **Card Musei Metropolitani Bologna - Campagna Natale 2018**
 
-Illustration created for the Bologna municipal museum card AD Christmas campaign. 
+Illustration created for the Bologna municipal museum card AD Christmas campaign. \
+Layout by Michele Pastore.
 
-![](/img/stopmotion_traccia_quadrato__esec.gif)
+![null](/img/stopmotion_traccia_quadrato__esec.gif)
+
+Graphite, 2018.
