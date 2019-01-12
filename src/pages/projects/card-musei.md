@@ -11,4 +11,5 @@ Layout by Michele Pastore.
 
 ![null](/img/stopmotion_traccia_quadrato__esec.gif)
 
-Graphite, 2018.
+Graphite\
+2018
