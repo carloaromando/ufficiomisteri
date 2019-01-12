@@ -12,13 +12,7 @@ Illustration created for the Bologna municipal museum card AD Christmas campaign
 
 ![null](/img/pubblic2.jpg)
 
-graphite, colored pencils, stardust \
+graphite, colored pencils, stardust. \
 2018
 
-
-
-
-
-
-
-![](/img/schermata-2019-01-12-alle-19.39.34.png)
+![null](/img/schermata-2019-01-12-alle-19.39.34.png)
