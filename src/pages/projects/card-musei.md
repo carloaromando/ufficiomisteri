@@ -8,6 +8,11 @@ image: /img/natale_card-copia.jpg
 
 Illustration created for the Bologna municipal museum card AD Christmas campaign. 
 
-![](/img/accrocchio.png)
+![null](/img/accrocchio.png)
 
-![](/img/card-bn3.jpg)
+![null](/img/card-bn3.jpg)
+
+graphite, colored pencils, stardust \
+2018
+
+![](/img/affiss.jpg)
