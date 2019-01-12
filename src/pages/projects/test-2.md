@@ -1,15 +1,21 @@
 ---
 templateKey: blog-post
-title: Il lungo viaggio del 707
+title: Il Viaggio del 707
 order: '01'
 image: /img/il-lungo-viaggio-del-707-copia.jpg
 ---
-![c](/img/chemex.jpg)
+**Il Viaggio del n°707**
 
-![m](/img/products-grid1.jpg)
+![](/img/1_il-lungo-viaggio.jpg)
 
-![mv](/img/products-grid3.jpg)
+![](/img/2_il-lungo-viaggio.jpg)
 
-![i](/img/products-full-width.jpg)
+![](/img/3_il-lungo-viaggio.jpg)
 
-![uy](/img/products-grid1.jpg)
+![](/img/4_il-lungo-viaggio.jpg)
+
+![](/img/5_il-lungo-viaggio.jpg)
+
+Ecoline, colored pencils, acrylics.
+
+2014
