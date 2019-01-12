@@ -14,6 +14,6 @@ To lose la track, Controcanti, Coward Records, Flying Kids, Fatty Liver Records.
 
 2018
 
-![null](/img/mockup_3.png)
+![](/img/mockup_3.png)
 
 ![null](/img/lantern_ancora.jpg)
