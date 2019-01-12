@@ -6,10 +6,8 @@ image: /img/doubble-bubble-copia.jpg
 ---
 **Il Giramondo**
 
-poster created for _Double Bubble_ exposition at Inuit Bookshop, Bologna.
+Poster created for _Double Bubble_ exposition at Inuit Bookshop, Bologna.
 
+![null](/img/double-bubble_totale.jpg)
 
-
-![](/img/double-bubble_totale.jpg)
-
-Graphite, 42 x 29,7 cm, 2015.
+Graphite, 2015.
