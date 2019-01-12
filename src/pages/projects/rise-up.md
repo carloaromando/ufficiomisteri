@@ -4,6 +4,6 @@ title: Rise Up!
 order: '04'
 image: /img/riseup-copia.jpg
 ---
-Carlyle
+**Rise Up!**
 
-ora dovrebbe funzionare, bella!
+Summertime children's book project.
