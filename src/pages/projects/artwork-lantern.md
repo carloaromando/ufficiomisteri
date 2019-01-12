@@ -10,11 +10,6 @@ Illustration for the cover of the record _Ancora_ by Lantern.\
 To lose la track, Controcanti, Coward Records, Flying Kids, Fatty Liver Records. \
 Design by Coward records
 
-suchhiashasfòdhfiuweg\
-fksjfòdsfhsjfhskjhfsjhsjhs\
-fdkjhffhshsucchiasgsiug\
-sgsigfsusgdfdgstecca
-
 
 
 ![null](/img/mockup_ok.png)
