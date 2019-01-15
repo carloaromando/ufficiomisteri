@@ -57,12 +57,12 @@ a
   display: flex
   @media screen and (max-width: $mobile)
     display: block
+    .navbar-item:last-child
+      margin-bottom: 15px
   h4
     position: relative
     top: 9px
     font-size: 16px !important
-  .navbar-item:last-child
-    margin-bottom: 15px
 
 .dropdown-container
   display: none
@@ -153,5 +153,8 @@ body,
 
 .hidden
   display: none
+
+.embedVideoIframe
+  width: 100%
 
 @import "~bulma"
