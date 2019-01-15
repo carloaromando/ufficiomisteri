@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: Il Bosco dei Gatt'Orchi
-order: 10
+order: 16
 image: /img/gattorchi-copia.jpg
-style: 'bow'
+style: bow
 ---
 **Il Bosco dei Gatto'Orchi**
 
