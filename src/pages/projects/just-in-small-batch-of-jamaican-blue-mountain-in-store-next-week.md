@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: Corvo = Scrivania
-order: '03'
+order: 3
 image: /img/alice-copia.jpg
+style: 'bow'
 ---
 **Corvo = Scrivania**
 

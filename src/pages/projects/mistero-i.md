@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: Mistero I
-order: 09
+order: 9
 image: /img/misteron1-copia.jpg
+style: 'bow'
 ---
 **Mistero I**
 

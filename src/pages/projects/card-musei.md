@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: Card Musei
-order: '07'
+order: 7
 image: /img/natale_card-copia.jpg
+style: 'bow'
 ---
 **Card Musei Metropolitani Bologna - Campagna Natale 2018**
 

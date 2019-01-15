@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: Double Bubble
-order: '05'
+order: 5
 image: /img/doubble-bubble-copia.jpg
+style: 'bow'
 ---
 **Il Giramondo**
 

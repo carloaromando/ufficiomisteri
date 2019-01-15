@@ -17,8 +17,15 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Order", name: "order", widget: "string", default: "0"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Order", name: "order", widget: "number", default: 0, valueType: "int", min: 0, max: 1000}
+      - {label: "Grid Image", name: "image", widget: "image"}
+      - label: "Style" 
+        name: "style"
+        widget: "select"
+        default: "bow"
+        options:
+          - { label: "Black on White", value: "bow" }
+          - { label: "White on Black", value: "wob" }
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "pages"

@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: Troppi Ricordi
-order: '11'
+order: 11
 image: /img/troppi_ricordi-copia.jpg
+style: 'bow'
 ---
 ![](/img/librotaddei_2.jpg)
 

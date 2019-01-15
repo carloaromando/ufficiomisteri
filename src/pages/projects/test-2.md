@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: Il Viaggio del 707
-order: '01'
+order: 1
 image: /img/il-lungo-viaggio-del-707-copia.jpg
+style: 'bow'
 ---
 **Il Viaggio del n°707**
 

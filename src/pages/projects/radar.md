@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: Radar
-order: '06'
+order: 6
 image: /img/radar.jpg
+style: 'bow'
 ---
 **RADAR**\
 Daniele Castellano, Bruno Zocca.

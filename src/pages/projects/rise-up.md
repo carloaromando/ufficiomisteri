@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: Rise Up!
-order: '04'
+order: 4
 image: /img/riseup-copia.jpg
+style: 'bow'
 ---
 **Rise Up!**
 

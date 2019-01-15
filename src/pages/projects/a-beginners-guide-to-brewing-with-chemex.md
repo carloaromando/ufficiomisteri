@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: At the Mountains of Madness
-order: '02'
+order: 2
 image: /img/montagne-della-follia-copia.jpg
+style: 'bow'
 ---
 **At the Mountains of Madness**
 

@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: Lantern - Ancora
-order: 08
+order: 8
 image: /img/lantern-copia.jpg
+style: 'bow'
 ---
 **Lantern - Ancora**
 
