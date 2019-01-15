@@ -22,7 +22,6 @@ export default class IndexPage extends React.Component {
     let posts = false
     if (hasProjects) {
       posts = data.allMarkdownRemark.edges
-      posts.sort((a, b) => (a.node.frontmatter.order > b.node.frontmatter.order) ? 1 : ((b.node.frontmatter.order > a.node.frontmatter.order) ? -1 : 0))
     }
 
     return (
@@ -61,6 +60,7 @@ IndexPage.propTypes = {
 export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
+      sort: { order: ASC, fields: [frontmatter___order] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
     ) {
       edges {

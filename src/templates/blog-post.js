@@ -40,7 +40,7 @@ const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout>
+    <Layout style={post.frontmatter.style}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -74,6 +74,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        style
       }
     }
   }

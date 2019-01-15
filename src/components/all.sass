@@ -51,7 +51,7 @@ a
 
 .navbar-brand .navbar-item
   @media screen and (max-width: $mobile)
-    justify-content: flex-end
+    justify-content: flex-start
 
 .navbar-links
   display: flex
@@ -61,6 +61,8 @@ a
     position: relative
     top: 9px
     font-size: 16px !important
+  .navbar-item:last-child
+    margin-bottom: 15px
 
 .dropdown-container
   display: none
@@ -96,8 +98,16 @@ body,
   margin-left: 0px !important
 
 .main-container
-  margin-top: 74px
+  margin-top: 82px
   height: 100%
+
+.main-container.wob
+  margin-top: 90px
+  background: $um-black
+  color: $um-white
+
+.main-container.wob strong
+  color: $um-white !important
 
 .title-project
   text-align: center
