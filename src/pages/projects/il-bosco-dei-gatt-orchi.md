@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Il Bosco dei Gatt'Orchi
 order: 10
 image: /img/gattorchi-copia.jpg
-style: 'wob'
+style: wob
 ---
 **Il Bosco dei Gatto'Orchi**
 
@@ -11,5 +11,7 @@ Mistesssssro V: Il Bosco dei Gatt’Orchi is the result of the memories trade pr
 
 Text by Marco Taddei\
 Sounds by Carlo Aromando and Steve Scanu.
+
+![](/img/2-biglie.gif)
 
 `youtube: https://www.youtube.com/watch?v=GMbn7JY9D1U`
