@@ -12,6 +12,42 @@ Mistesssssro V: Il Bosco dei Gatt’Orchi is the result of the memories trade pr
 Text by Marco Taddei\
 Sounds by Carlo Aromando and Steve Scanu.
 
-![](/img/2-biglie.gif)
+![](/img/schermata-2019-01-14-alle-19.37.54.png)
+
+
+
+**\#1 Michele**
+
+He is the one who decided to enter the woods.He became an entomologist. He has a gift for analysis, but he does not withdrawn from mystery.He will die from lapilli in 2029, during a lava flow.
+
+![](/img/schermata-2019-01-14-alle-19.40.37.png)
+
+![](/img/schermata-2019-01-14-alle-19.42.32.png)
+
+**\#2 Gabriella**
+
+Who’s the one who made a mess.She works as a saleswoman. She is sloppy, spinster, maybe even a little stupid.She dies old, from a very ordinary disease, which she poorly treats.
+
+![](/img/schermata-2019-01-14-alle-19.43.09.png)
+
+![](/img/schermata-2019-01-14-alle-19.43.37.png)
+
+**\#3 Victor**
+
+Who is the one that got a bit carried away.He has become a big-shot writer but his life pours mud in every corner.He dies pretty old, without having won an award.
+
+![](/img/schermata-2019-01-14-alle-19.44.03.png)
+
+Then we heard, all of us, that voice saying...
+
+![](/img/schermata-2019-01-14-alle-19.45.44.png)
+
+**«You don’t wash evil with compliance in this country. **\
+**You don’t need to repent for what you have done. **\
+**Here’s what’s coming at the end of your days.»**
+
+![](/img/schermata-2019-01-14-alle-19.45.44.png)
+
+![](/img/schermata-2019-01-14-alle-19.46.57.png)
 
 `youtube: https://www.youtube.com/watch?v=GMbn7JY9D1U`
