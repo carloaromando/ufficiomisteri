@@ -9,8 +9,6 @@ style: bow
 
 Illustration created for the Bologna municipal museum card AD Christmas campaign. 
 
-![](/img/bologna-cultura-gif-apertura_video.gif)
-
 ![null](/img/pubblicok.jpg)
 
 ![null](/img/pubblic2.jpg)
