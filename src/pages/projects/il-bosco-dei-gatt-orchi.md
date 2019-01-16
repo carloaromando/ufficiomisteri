@@ -22,7 +22,7 @@ He will die from lapilli in 2029, during a lava flow.
 
 ![](/img/schermata-2019-01-16-alle-12.59.24.png)
 
-![](/img/schermata-2019-01-16-alle-12.59.45.png)
+![null](/img/schermata-2019-01-16-alle-12.59.45.png)
 
 **\#2 Gabriella**
 
@@ -30,9 +30,9 @@ Who’s the one who made a mess.
 She works as a saleswoman. She is sloppy, spinster, maybe even a little stupid.
 She dies old, from a very ordinary disease, which she poorly treats.
 
-![](/img/schermata-2019-01-16-alle-13.00.01.png)
+![null](/img/schermata-2019-01-16-alle-13.00.01.png)
 
-![](/img/schermata-2019-01-16-alle-13.00.15.png)
+![null](/img/schermata-2019-01-16-alle-13.00.15.png)
 
 **\#3 Victor**
 
@@ -40,18 +40,20 @@ Who is the one that got a bit carried away.
 He has become a big-shot writer but his life pours mud in every corner.
 He dies pretty old, without having won an award.
 
-![](/img/schermata-2019-01-16-alle-13.00.29.png)
+![null](/img/schermata-2019-01-16-alle-13.00.29.png)
 
-![](/img/schermata-2019-01-16-alle-13.00.38.png)
+![null](/img/schermata-2019-01-16-alle-13.00.38.png)
 
 Then we heard, all of us, that voice saying...
 
-![](/img/schermata-2019-01-16-alle-13.00.52.png)
+![null](/img/schermata-2019-01-16-alle-13.00.52.png)
 
-**You don’t wash evil with compliance in this country. **\
-**You don’t need to repent for what you have done. **\
+**You don’t wash evil with compliance in this country. 
+**\
+**You don’t need to repent for what you have done. 
+**\
 **Here’s what’s coming at the end of your days.**
 
-![](/img/schermata-2019-01-16-alle-13.01.05.png)
+![null](/img/schermata-2019-01-16-alle-13.01.05.png)
 
 <https://www.youtube.com/watch?v=TZcmvxjb-Jk&feature=youtu.be>
