@@ -10,19 +10,17 @@ style: bow
 Illustrations for the unpublished book project _The Journey of the n° 707_\
 selected at Ilustrarte, Lisbon, 2016.
 
+![null](/img/1_il-lungo-viaggio.jpg)
 
+![null](/img/2_il-lungo-viaggio.jpg)
 
-![](/img/1_il-lungo-viaggio.jpg)
+![null](/img/3_il-lungo-viaggio.jpg)
 
-![](/img/2_il-lungo-viaggio.jpg)
+![null](/img/4_il-lungo-viaggio.jpg)
 
-![](/img/3_il-lungo-viaggio.jpg)
+![null](/img/5_il-lungo-viaggio.jpg)
 
-![](/img/4_il-lungo-viaggio.jpg)
-
-![](/img/5_il-lungo-viaggio.jpg)
-
-![](/img/schermata-2019-01-16-alle-10.33.46.png)
+![null](/img/lisbona.jpg)
 
 Ecoline, colored pencil, acrylics.\
 2014
