@@ -52,4 +52,4 @@ Then we heard, all of us, that voice saying...
 
 ![null](/img/schermata-2019-01-14-alle-19.46.57.png)
 
-`youtube: https://www.youtube.com/watch?v=GMbn7JY9D1U`
+`https://www.youtube.com/watch?v=TZcmvxjb-Jk&feature=youtu.be`
