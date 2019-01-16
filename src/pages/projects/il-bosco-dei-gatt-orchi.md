@@ -46,10 +46,10 @@ He dies pretty old, without having won an award.
 
 Then we heard, all of us, that voice saying...
 
-![](/img/schermata-2019-01-14-alle-19.45.44.png)
+![null](/img/schermata-2019-01-14-alle-19.45.44.png)
 
-****
+- - -
 
 ![null](/img/schermata-2019-01-14-alle-19.46.57.png)
 
-``[`https://www.youtube.com/watch?v=TZcmvxjb-Jk&feature=youtu.be`](https://www.youtube.com/watch?v=TZcmvxjb-Jk&feature=youtu.be)``
+https://www.youtube.com/watch?v=TZcmvxjb-Jk&feature=youtu.be
