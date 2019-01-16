@@ -34,9 +34,7 @@ She dies old, from a very ordinary disease, which she poorly treats.
 
 ![null](/img/schermata-2019-01-14-alle-19.43.37.png)
 
-\*\*#3 Victor
-
-\*\*
+**\#3 Victor**
 
 Who is the one that got a bit carried away.
 He has become a big-shot writer but his life pours mud in every corner.
