@@ -3,12 +3,12 @@ templateKey: blog-post
 title: Lantern - Ancora
 order: 8
 image: /img/lantern-copia.jpg
-style: 'bow'
+style: bow
 ---
 **Lantern - Ancora**
 
 Illustration for the cover of the record _Ancora_ by Lantern.\
-To lose la track, Controcanti, Coward Records, Flying Kids, Fatty Liver Records. \
+To Lose La Track, Controcanti, Coward Records, Flying Kids, Fatty Liver Records. \
 Design by Coward records
 
 ![null](/img/mockup_ok.png)
