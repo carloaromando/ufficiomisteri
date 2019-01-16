@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Mistero IV
-order: 11
+order: 10
 image: /img/troppi_ricordi-copia.jpg
 style: bow
 ---
