@@ -9,6 +9,8 @@ style: bow
 
 Summertime children's book project.
 
+
+
 ![](/img/1_riseup.jpg)
 
 ![](/img/2_riseup.jpg)
@@ -16,3 +18,6 @@ Summertime children's book project.
 ![](/img/3_riseup.jpg)
 
 ![](/img/4_riseup.jpg)
+
+Ecoline, colored pencil, panpastel, oil, graphite.\
+2017
