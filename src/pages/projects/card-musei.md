@@ -9,7 +9,7 @@ style: bow
 
 Illustration created for the Bologna municipal museum card AD Christmas campaign. 
 
-![null](/img/pubblicok.jpg)
+![](/img/schermata-pizza.png)
 
 ![null](/img/pubblic2.jpg)
 
