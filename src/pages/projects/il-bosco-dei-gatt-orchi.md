@@ -46,8 +46,18 @@ He dies pretty old, without having won an award.
 
 Then we heard, all of us, that voice saying...
 
+![](/img/schermata-2019-01-14-alle-19.46.01.png)
+
+You don’t wash evil with compliance in this country. \
+You don’t need to repent for what you have done. \
+Here’s what’s coming at the end of your days.
+
 ![](/img/schermata-2019-01-17-alle-13.35.47.png)
 
 ![](/img/schermata-2019-01-17-alle-13.35.24.png)
+
+
+
+
 
 `youtube:https://www.youtube.com/watch?v=TZcmvxjb-Jk`
