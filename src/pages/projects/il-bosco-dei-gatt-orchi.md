@@ -12,7 +12,7 @@ Mistero V: Il Bosco dei Gatt’Orchi is the result of the memories trade project
 Texts by Marco Taddei\
 Sounds by Carlo Aromando and Steve Scanu.
 
-![](/img/schermata-2019-01-16-alle-12.58.18.png)
+![null](/img/schermata-2019-01-16-alle-12.58.18.png)
 
 **\#1 Michele**
 
@@ -20,7 +20,7 @@ He is the one who decided to enter the woods.
 He became an entomologist. He has a gift for analysis, but he does not withdrawn from mystery.
 He will die from lapilli in 2029, during a lava flow.
 
-![](/img/schermata-2019-01-16-alle-12.59.24.png)
+![null](/img/schermata-2019-01-16-alle-12.59.24.png)
 
 ![null](/img/schermata-2019-01-16-alle-12.59.45.png)
 
@@ -48,12 +48,6 @@ Then we heard, all of us, that voice saying...
 
 ![null](/img/schermata-2019-01-16-alle-13.00.52.png)
 
-**You don’t wash evil with compliance in this country. 
-**\
-**You don’t need to repent for what you have done. 
-**\
-**Here’s what’s coming at the end of your days.**
-
-![null](/img/schermata-2019-01-16-alle-13.01.05.png)
+****
 
 <https://www.youtube.com/watch?v=TZcmvxjb-Jk&feature=youtu.be>
