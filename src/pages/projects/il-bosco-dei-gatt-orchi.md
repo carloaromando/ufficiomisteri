@@ -48,6 +48,4 @@ Then we heard, all of us, that voice saying...
 
 ![null](/img/schermata-2019-01-16-alle-13.00.52.png)
 
-****
-
 <https://www.youtube.com/watch?v=TZcmvxjb-Jk&feature=youtu.be>
