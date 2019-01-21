@@ -11,7 +11,7 @@ Marco Taddei realized he had way too many memories. He asked Ufficio Misteri to 
 
 Texts by Marco Taddei
 
-![null](/img/2-bigliesito.gif)
+![null](/img/bigliesito2.gif)
 
 ![null](/img/librotaddei_2.jpg)
 
