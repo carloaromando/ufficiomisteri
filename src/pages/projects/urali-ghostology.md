@@ -10,3 +10,5 @@ style: bow
 Illustration and design for the album _Ghostology_ by Urali.
 
 ![null](/img/ivan-mocknuovo.jpg)
+
+![](/img/ivangif.gif)
