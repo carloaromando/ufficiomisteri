@@ -12,7 +12,7 @@ Mistero V: Il Bosco dei Gatt’Orchi is the result of the memories trade project
 Texts by Marco Taddei\
 Sounds by Carlo Aromando and Steve Scanu.
 
-![null](/img/schermata-2019-01-17-alle-13.35.10.png)
+![null](/img/schermata-2019-01-22-alle-23.53.26.png)
 
 **\#1 Michele**
 
@@ -56,6 +56,6 @@ Here’s what’s coming at the end of your days.
 
 ![null](/img/schermata-2019-01-14-alle-19.45.44.png)
 
-![null](/img/schermata-2019-01-17-alle-13.35.24.png)
+![null](/img/schermata-2019-01-22-alle-23.53.45.png)
 
 `youtube:https://www.youtube.com/watch?v=TZcmvxjb-Jk`
