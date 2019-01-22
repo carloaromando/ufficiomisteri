@@ -42,6 +42,8 @@ module.exports = {
       options: {
         plugins: [
           netlifyCmsPaths,
+          `gatsby-remark-embed-video`,
+          `gatsby-remark-responsive-iframe`,
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
@@ -58,13 +60,13 @@ module.exports = {
               backgroundColor: 'transparent', // required to display blurred image first
             },
           },
+          {
+            resolve: "gatsby-remark-copy-linked-files",
+            options: {
+              destinationDir: `gif`,
+            }
+          }
         ],
-      },
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: ["gatsby-remark-copy-linked-files"],
       },
     },
     {
@@ -74,14 +76,5 @@ module.exports = {
       },
     },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-        `gatsby-remark-embed-video`,
-        `gatsby-remark-responsive-iframe`
-        ],
-      },
-    },
   ],
 }
