@@ -54,7 +54,7 @@ You don’t need to repent for what you have done.
 
 Here’s what’s coming at the end of your days.
 
-![null](/img/schermata-2019-01-17-alle-13.35.47.png)
+![null](/img/schermata-2019-01-14-alle-19.45.44.png)
 
 ![null](/img/schermata-2019-01-17-alle-13.35.24.png)
 
