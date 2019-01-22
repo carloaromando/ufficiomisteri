@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Urali - Ghostology
 order: 12
-image: /img/ghostology.jpg
+image: /img/urali.jpg
 style: bow
 ---
 - - -
