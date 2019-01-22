@@ -5,16 +5,16 @@ order: 12
 image: /img/ghostology.jpg
 style: bow
 ---
-****
+- - -
 
 **Urali - Ghostology**
 
 Illustration and design for the album _Ghostology_ by Urali.
 
-![](/img/giustagif..gif)
+![null](/img/gifdelsecolo.gif)
 
-![](/img/ivan-mocknuovo.jpg)
+![null](/img/ivan-mocknuovo.jpg)
 
-![](/img/cover-grande.jpg)
+![null](/img/cover-grande.jpg)
 
-![](/img/foglione.jpg)
+![null](/img/foglione.jpg)
