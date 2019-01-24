@@ -58,4 +58,6 @@ Here’s what’s coming at the end of your days.
 
 ![null](/img/schermata-2019-01-22-alle-23.53.45.png)
 
+![](/img/schermata-2019-01-24-alle-14.30.27.png)
+
 `youtube:https://www.youtube.com/watch?v=TZcmvxjb-Jk`
